@@ -38,4 +38,8 @@ col1, col2, col3, col4, col5 = st.columns([1,1,1,1,1])
 with col5:
     st.write("M.Prasanth Kumar Reddy")
 
-st.balloons()
+def main():
+    st.balloons()
+    time.sleep(0.0)
+
+main()
