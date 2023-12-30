@@ -40,6 +40,6 @@ with col5:
 
 def main():
     st.balloons()
-    time.sleep(0.0)
+    time.sleep(0.1)
 
 main()
