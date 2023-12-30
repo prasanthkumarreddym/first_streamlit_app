@@ -6,7 +6,7 @@ import os
 import requests
 
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide",page_title="first_streamlit_app")
 
 st.write("---")
 col1, col2, col3,col4, col5 = st.columns([1,1,1,1,1])
